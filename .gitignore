@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment files
+.env
+
+# Cache
+.cache/
+.tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
