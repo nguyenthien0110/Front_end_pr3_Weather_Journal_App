@@ -48,4 +48,4 @@ The primary files involved are:
 
 ## Final Output
 
-![Output](https://github.com/nguyenthien0110/Front_end_pr3_Weather_Journal_App\img\output.png)
+![Output](https://github.com/nguyenthien0110/Front_end_pr3_Weather_Journal_App/blob/main/img/output.png)
