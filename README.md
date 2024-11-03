@@ -48,4 +48,4 @@ The primary files involved are:
 
 ## Final Output
 
-![Output](.\img\output.png)
+![Output](Front_end_pr3_Weather_Journal_App\img\output.png)
