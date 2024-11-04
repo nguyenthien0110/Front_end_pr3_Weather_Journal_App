@@ -15,7 +15,12 @@ This project requires creating an asynchronous web app that uses the OpenWeather
     ```bash
     git clone <https://github.com/nguyenthien0110/Front_end_pr3_Weather_Journal_App.git>
     ```
-2. Install dependencies:
+2. Node Vertions
+    ```bash
+    v20.14.0
+    ```
+
+3. Install dependencies:
     ```bash
     npm install
     ```
